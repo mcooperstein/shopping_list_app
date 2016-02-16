@@ -1,0 +1,113 @@
+* {
+    font-size: 100%;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+body {
+    background-image: url("../images/NGjxvE2.jpg");
+    font-family: cursive;
+    color: darkred;
+    font-weight: 400;
+    background-repeat: no-repeat;
+}
+
+.container {
+    width: 500px;
+    margin: 0px auto;
+}
+
+.input {
+    width: 540px;
+    text-align: center;
+    background-image: url("../images/legal-pad-979558_640.png");
+    margin: 0px auto;
+    border-radius: 3px;
+}
+
+h1 {
+    margin-top: 10px;
+    padding-top: 52px;
+    font-size: 50px;
+    margin-bottom: 9px;
+    color: darkblue;
+    font-family: cursive;
+}
+
+.enter-text {
+    height: 25px;
+    width: 25px;
+    font-size: 18px;
+    color: darkblue;
+    background: none;
+    border: 2px solid black;
+    border-radius: 4px;
+    padding: 0px 0px 4px;
+}
+
+h2 {
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    color: darkblue;
+    font-family: fantasy;
+    margin-top: 6px;
+    margin-bottom: 18px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    text-align: left;
+    padding-left: 38px;
+    padding-top: 1.5px;
+    margin-top: 5.5px;
+    font-weight: bolder;
+    color: darkblue;
+    text-transform: uppercase;
+    width: 500px;
+}
+
+.ticked {
+    color: gray;
+    text-decoration: line-through;
+}
+
+li .checkbox {
+    float: left;
+    margin-top: 4px;
+    margin-left: -18px;
+    margin-right: 22px;
+    height: 15px;
+    width: 15px;
+    color: darkblue;
+    background-color: white;
+}
+
+li .delete {
+    float: right;
+    margin-top: 4px;
+    margin-right: 300px;
+    height: 15px;
+    width: 15px;
+    color: red;
+    background-color: white;
+}
+
+.delete-all {
+    width: 100px;
+    font-size: 16px;
+    color: red;
+    margin-top: 18px;
+    margin-bottom: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: monospace;
+    background: none;
+    border: 2px solid black;
+    border-radius: 4px;
+}
